@@ -41,7 +41,7 @@
         "icon": "tv",
         "order": 2,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "9cf1e8b8202e424f",
@@ -119,7 +119,8 @@
                 "default": "#0094CE",
                 "baseColor": "#0094CE",
                 "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
-                "edited": false
+                "edited": true,
+                "reset": false
             },
             "darkTheme": {
                 "default": "#097479",
