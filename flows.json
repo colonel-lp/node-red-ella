@@ -41,7 +41,7 @@
         "icon": "tv",
         "order": 2,
         "disabled": false,
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "9cf1e8b8202e424f",
